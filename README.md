@@ -18,6 +18,5 @@ algoritmos :
 
 Directorio Evidencias
 
-
            - datos   :   Grafos .gv
            - imagenes :  Representación de gephi 
