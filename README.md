@@ -3,11 +3,12 @@ Este es un repositorio para entrega del Proyecto 1 - Biblioteca de generación y
 
 Materia : Diseño de Algoritmos.
 
-grafo - clase grafo
-nodo  - clase nodo
-arista - clase arista
+* grafo - clase grafo
+* nodo  - clase nodo
+* arista - clase arista
 
 algoritmos : 
+
 * Erdos - Renyi
 * Malla
 * Gilbert
@@ -16,5 +17,7 @@ algoritmos :
 * Dorogovtse - Mendes
 
 Directorio Evidencias
+
+
            - datos   :   Grafos .gv
            - imagenes :  Representación de gephi 
