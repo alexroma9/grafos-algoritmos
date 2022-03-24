@@ -17,6 +17,5 @@ algoritmos :
 * Dorogovtse - Mendes
 
 Directorio Evidencias
-
-           - datos   :   Grafos .gv
-           - imagenes :  Representación de gephi 
+- datos   :   Grafos .gv
+- imagenes :  Representación de gephi 
